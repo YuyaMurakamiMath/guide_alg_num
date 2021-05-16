@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.10.15)  15 MAY 2021 22:50
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.10.15)  16 MAY 2021 21:10
  restricted system commands enabled.
 **代数的整数論の道案内.tex
 (./代数的整数論の道案内.tex
@@ -1442,9 +1442,9 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 
 ]
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 59.
+(Font)              scaled to size 9.24713pt on input line 62.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 59.
+(Font)              scaled to size 9.24713pt on input line 62.
 (load cache: extra_lmsans10-regular.luc) (./代数的整数論の道案内.toc
 LaTeX Font Info:    Calculating math sizes for size <10.95001> on input line 3.
 
@@ -1466,43 +1466,43 @@ LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 ]
 第1章
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 64.
+(Font)              scaled to size 19.17854pt on input line 67.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 64.
+(Font)              scaled to size 19.17854pt on input line 67.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 64.
+(Font)              scaled to size 19.17854pt on input line 67.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 64.
+(Font)              scaled to size 19.17854pt on input line 67.
 (load cache: extra_lmsans10-bold.luc)
 LaTeX Font Info:    Font shape `JT3/gt/b/n' in size <10> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 89.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 92.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 8.44485pt on input line 89.
+(Font)              scaled to size 8.44485pt on input line 92.
 LaTeX Font Info:    Font shape `JY3/gt/b/n' in size <10> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 89.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 92.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 8.44485pt on input line 89.
+(Font)              scaled to size 8.44485pt on input line 92.
 [3
 
 ] [4] [5]
 第2章
-LaTeX Font Info:    Calculating math sizes for size <15.768> on input line 224.
+LaTeX Font Info:    Calculating math sizes for size <15.768> on input line 227.
 
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 9.32104pt on input line 224.
+(Font)              scaled to size 9.32104pt on input line 227.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.65793pt on input line 224.
+(Font)              scaled to size 6.65793pt on input line 227.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 9.32104pt on input line 224.
+(Font)              scaled to size 9.32104pt on input line 227.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 6.65793pt on input line 224.
+(Font)              scaled to size 6.65793pt on input line 227.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 224.
+(hyperref)                removing `math shift' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 224.
+(hyperref)                removing `math shift' on input line 227.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tcb@cnt@th
@@ -1515,20 +1515,20 @@ warning  (pdf backend): ignoring duplicate destination with the name 'tcb@cnt@th
 eorem.2'
 (load cache: extra_lmroman10-italic.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/it' in size <10> not available
-(Font)              Font shape `JT3/mc/m/n' tried instead on input line 268.
+(Font)              Font shape `JT3/mc/m/n' tried instead on input line 271.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 8.44485pt on input line 268.
+(Font)              scaled to size 8.44485pt on input line 271.
 LaTeX Font Info:    Font shape `JY3/mc/m/it' in size <10> not available
-(Font)              Font shape `JY3/mc/m/n' tried instead on input line 268.
+(Font)              Font shape `JY3/mc/m/n' tried instead on input line 271.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 8.44485pt on input line 268.
+(Font)              scaled to size 8.44485pt on input line 271.
 
 Class ltjsreport Warning: deprecated old font command `\bf' used.
 (ltjsreport)              You should note, that since 1994 LaTeX2e provides a
 (ltjsreport)              new font selection scheme called NFSS2 with several
 (ltjsreport)              new, combinable font commands. This ltjsreport
 (ltjsreport)              class has defined the old font commands like
-(ltjsreport)              `\bf' only for compatibility on input line 268.
+(ltjsreport)              `\bf' only for compatibility on input line 271.
 
 [7]
 warning  (pdf backend): ignoring duplicate destination with the name 'tcb@cnt@ex
@@ -1538,10 +1538,10 @@ warning  (pdf backend): ignoring duplicate destination with the name 'tcb@cnt@th
 eorem.1'
 (load cache: extra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 6.47295pt on input line 364.
+(Font)              scaled to size 6.47295pt on input line 367.
 (load cache: extra_lmroman5-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 364.
+(Font)              scaled to size 4.62357pt on input line 367.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tcb@cnt@th
 eorem.2'
@@ -1573,17 +1573,17 @@ eorem.5'
 <O_K.jpg, id=227, 1692.3225pt x 814.04124pt>
 File: O_K.jpg Graphic file (type jpg)
 <use O_K.jpg>
-Package luatex.def Info: O_K.jpg  used on input line 503.
+Package luatex.def Info: O_K.jpg  used on input line 506.
 (luatex.def)             Requested size: 142.26378pt x 68.42868pt.
  [12<./O_K.jpg>]
 第3章
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 520.
+(hyperref)                removing `math shift' on input line 523.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 520.
+(hyperref)                removing `math shift' on input line 523.
 
 [13
 
@@ -1618,12 +1618,12 @@ LaTeX Warning: There were multiply-defined labels.
 
 Here is how much of LuaTeX's memory you used:
  30870 strings out of 479056
- 305795,953878 words of node,token memory allocated
- 39063 words of node memory still in use:
-   11 hlist, 2 vlist, 5 rule, 23 glue, 662 kern, 1 glyph, 13979 attribute, 1035 
-glue_spec, 863 attribute_list, 2 write, 123 user_defined nodes
-   avail lists: 1:22,2:56980,3:2370,4:1161,5:130,6:83,7:7505,8:72,9:3503,10:40,1
-1:22
+ 305793,953878 words of node,token memory allocated
+ 38354 words of node memory still in use:
+   11 hlist, 2 vlist, 5 rule, 2 glue, 666 kern, 1 glyph, 13690 attribute, 1041 g
+lue_spec, 846 attribute_list, 2 write, 123 user_defined nodes
+   avail lists: 1:20,2:56116,3:2367,4:1161,5:88,6:83,7:7320,8:72,9:3384,10:40,11
+:22
  48880 multiletter control sequences out of 65536+600000
  160 fonts using 90251219 bytes
  135i,15n,137p,1215b,1434s stack positions out of 5000i,500n,10000p,500000b,200000s
@@ -1647,7 +1647,7 @@ pe1/public/amsfonts/cm/cmr7.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy7.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
 0.pfb>
-Output written on 代数的整数論の道案内.pdf (17 pages, 324591 bytes).
+Output written on 代数的整数論の道案内.pdf (17 pages, 331403 bytes).
 
 PDF statistics: 350 PDF objects out of 1000 (max. 8388607)
  287 compressed objects within 3 object streams
