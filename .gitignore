@@ -1,0 +1,13 @@
+*.synctex.gz
+*.aux
+*.bbl
+*.blg
+*.cut
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.xcp
+*_temp.tex
