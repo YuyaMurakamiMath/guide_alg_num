@@ -1,0 +1,47 @@
+\documentclass[11pt,a4paper,oneside,lualatex]{ltjsarticle} % LuaLaTeXの場合
+%\documentclass[11pt,a4paper,oneside,titlepage,lualatex]{ltjsreport} % 表紙付き, 章から始まる形式
+
+%SumatraPDFの逆順検索でエラーが出た時は以下のコマンドラインをSumatraPDFの設定→オプションで入力する
+%"C:\Program Files (x86)\TeXstudio\texstudio.exe" "%f" -line %l
+
+\usepackage{luatexja} % ltjclasses, ltjsclasses を使うときはこの行不要
+\usepackage[marginparwidth=0pt,margin=25truemm]{geometry} % 余白の設定
+% スマホやタブレットでも読みやすいB5サイズの文書を書くときは, 1行目の\documentclassのオプションで「a4paper」を「b5paper」にして, 余白設定はmargin=10truemmにすると自分好み
+
+% --------------------------------------------------------------------------
+%		パッケージとコマンド
+% --------------------------------------------------------------------------
+
+\usepackage{mypackage} % よく使うパッケージ. 「C:\w32tex\share\texmf-local\tex\(好きなファイル名)」に置いたmypackage.styを読み込む
+\usepackage{mycommand} % 自分で定義したコマンド. 「C:\w32tex\share\texmf-local\tex\(好きなファイル名)」に置いたmycommand.styを読み込む
+
+% --------------------------------------------------------------------------
+%		定理環境
+% --------------------------------------------------------------------------
+
+% 定理番号の設定
+\newtheorem{theoremcounter}{Theorem Counter}[section] % 定理番号のオプションを選択. [section]を[chapter]にすれば章番号から始まり「定理 1.1.1」のようになる.
+\newtheorem{exercisecounter}{Exercise Counter}[] % 演習問題番号のオプションを選択. []を[section], [chapter]にすればそれぞれ節, 章番号から始まり「演習問題 1.1」「演習問題 1.1.1」のようになる. [theoremcounter]にすれば定理番号と共通の番号.
+
+% 自作スタイルファイル読み込み
+\usepackage{mytheorem} % 通常の定理環境. 「C:\w32tex\share\texmf-local\tex\(好きなファイル名)」に置いたmytheorem.styを読み込む
+
+%\usepackage{myprogram} % ハイライト付きソースコード. 「C:\w32tex\share\texmf-local\tex\(好きなファイル名)」に置いたmyprogram.styを読み込む
+
+% --------------------------------------------------------------------------
+%		ハイパーリンク
+% --------------------------------------------------------------------------
+
+%目次にもハイパーリンクが付く. プリアンブルのできるだけ後ろに書く. 
+\usepackage[luatex, pdfencoding=auto]{hyperref}
+\hypersetup{colorlinks=false} % hyperrefオプションリスト
+	
+% --------------------------------------------------------------------------
+\begin{document}
+% --------------------------------------------------------------------------
+
+test
+
+% --------------------------------------------------------------------------
+\end{document}
+% --------------------------------------------------------------------------
