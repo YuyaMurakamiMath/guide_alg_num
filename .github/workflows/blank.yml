@@ -1,0 +1,21 @@
+name: dispatch target file updated
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '%E4%BB%A3%E6%95%B0%E7%9A%84%E6%95%B4%E6%95%B0%E8%AB%96%E3%81%AE%E9%81%93%E6%A1%88%E5%86%85.pdf'
+jobs:
+  dispatch-target-updated:
+    strategy:
+      matrix:
+        repo: ['YuyaMurakamiMath/MyNote']
+    name: dispatch-target-updated
+    runs-on: ubuntu-latarget
+    steps:
+      - name: dispatch target-updated
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ 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 }}
+          repository: ${{ matrix.repo }}
+          event-type: target-updated
