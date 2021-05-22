@@ -16,6 +16,6 @@ jobs:
       - name: dispatch target-updated
         uses: peter-evans/repository-dispatch@v1
         with:
-          token: ${{ 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 }}
+          token: ${{ secrets.GITHUB_ACCESS_TOKEN }}
           repository: ${{ matrix.repo }}
           event-type: target-updated
